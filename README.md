@@ -18,4 +18,4 @@ I set up a fake facebook page using setoolkit and hosted it on the local host, t
 
 This challenge we went on shodan a site that allows users to search webcams that are unprotected around the world, and even some cameras the users can move.
 
-![]()
+![](https://github.com/FreeMichael/Lab-10/blob/master/Screen%20Shot%202018-11-30%20at%203.35.15%20PM.png)
